@@ -1,2 +1,2 @@
 # DominoBot
-Lego technique domino
+### Un bot poseur de domino en **Lego Technique**
